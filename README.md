@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pujaagarwal5263
+- 👋 Hi, I’m Puja Agarwal
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Nodejs..
 - 📫 How to reach me  pujaagarwal5263@gmail.com
 
 <!---
