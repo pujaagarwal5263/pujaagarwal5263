@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja Agarwal</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujaagarwal5263" alt="pujaagarwal5263" /></a> </p>
 
