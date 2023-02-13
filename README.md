@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.JS and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-puja-agarwal.pujuagarwal.repl.co/](https://portfolio-puja-agarwal.pujuagarwal.repl.co/)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-puja-agarwal.pujuagarwal.repl.co/">My Porfolio</a>
 
 - 💬 Ask me about **Node.JS and Java.**
 
