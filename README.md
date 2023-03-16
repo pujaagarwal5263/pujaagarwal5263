@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **pujuagarwal5263@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13AU28bhZW6ZbaUPDEhesEcRM68_mgD5n/view">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1A24QqBaSxTM3_HnZzF0ko3tMtb3UxWhE/view" target="_blank">here</a>
 
 - ⚡ Fun fact **I don't like COFFEE**
 
