@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujaagarwal5263" alt="pujaagarwal5263" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS and Typescript**
+- 🌱 I’m currently learning **Nest JS**
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-puja-agarwal.pujuagarwal.repl.co/">My Porfolio</a>
 
