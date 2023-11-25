@@ -23,10 +23,10 @@
   <a href="[https://leetcode.com/pujuagarwal/](https://leetcode.com/pujuagarwal/)">
     <img src="https://cp-logo.vercel.app/leetcode/pujuagarwal" alt="Leet code rating" />
   </a>
-  <a href="https://github.com/pujuagarwal?tab=followers">
+  <a href="https://github.com/pujaagarwal5263?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pujaagarwal5263?color=green&logo=github">
   </a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujaagarwal5263&label=Profile%20views&color=0e75b6&style=flat" alt="pujaagarwal5263" /> </p>
+  <a href="https://github.com/pujaagarwal5263"> <img src="https://komarev.com/ghpvc/?username=pujaagarwal5263&label=Profile%20views&color=0e75b6&style=flat" alt="pujaagarwal5263" /> </a>
 
 </p>
 
