@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://pujaagarwal.xyz/">My Porfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://pujaagarwal.xyz/">pujaagarwal.xyz</a>
 
 - 💬 Ask me about **Node.JS and Java.**
 
