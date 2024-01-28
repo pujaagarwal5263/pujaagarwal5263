@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I'm Puja Agarwal 👋</h1>
-<h3 align="center">Committed to Continuous Learning and Growth 🚀</h3>
+<h3 align="center">Backend Enthusiast 🖥️ | Crafting Robust Solutions for Tomorrow's Challenges</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujaagarwal5263" alt="pujaagarwal5263" /></a> </p>
 
