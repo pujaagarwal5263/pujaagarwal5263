@@ -13,7 +13,7 @@
 
 - 🚀 All my hackathon achievements are <a href="https://devpost.com/pujuagarwal5263" target="_blank">here</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14qEQaPHODJ-6j6RrXxILDfi68uU9ahuy/view?usp=sharing" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://apricot-eda-98.tiiny.site/" target="_blank">here</a>
 
 - ⚡ Fun fact **I don't like COFFEE**
 
