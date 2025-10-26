@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at <a href="https://pujaagarwal.xyz/">pujaagarwal.xyz</a>
+- 👨‍💻 All of my projects are available at <a href="http://bit.ly/3WqPnZP">My Portfolio</a>
 
 - 💬 Ask me about **Node.JS, Nest JS, and Java.**
 
