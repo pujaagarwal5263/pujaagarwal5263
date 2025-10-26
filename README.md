@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujaagarwal5263" alt="pujaagarwal5263" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at <a href="https://pujaagarwal.xyz/">pujaagarwal.xyz</a>
 
-- 💬 Ask me about **Node.JS and Java.**
+- 💬 Ask me about **Node.JS, Nest JS, and Java.**
 
 - 📫 Reach me at **pujuagarwal5263@gmail.com**
 
